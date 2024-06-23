@@ -53,7 +53,7 @@ The application is launched from the command line, featuring a help section that
 
 ![Screenshot of a class diagram](https://github.com/conek/DependencyExtractor/blob/main/diagrams/classDiagram.png)
 
-## Available Options in the Program
+## Available Options in the Application
 
 ```
 usage: dependencyExtractor
