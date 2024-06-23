@@ -51,7 +51,7 @@ The application is launched from the command line, featuring a help section that
 
 ## Diagram
 
-![Screenshot of a class diagram](https://www.dropbox.com/scl/fi/55rletfruuidso6u2c2mo/classDiagram.png?rlkey=0nrk1ldohugn2jmmt9ywm54oe&st=vij9zet3&dl=1)
+![Screenshot of a class diagram](https://github.com/conek/DependencyExtractor/blob/main/diagrams/classDiagram.png)
 
 ## Available Options in the Program
 
